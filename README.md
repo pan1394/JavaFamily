@@ -1,4 +1,10 @@
+## 买书折扣:
 
+当当网和我合作，推出打折活动满100减50...满400减200。
+
+你以为只有这样？他们送我100张优惠券，满200减少30**可与上面的折扣叠加**，支付的时候输入优惠码【**TJ5WBT**】相当于170买400的书。
+
+## GitHub
 
 作为一个在互联网公司面一次拿一次Offer的面霸，打败了无数竞争对手，每次都只能看到无数落寞的身影失望的离开，略感愧疚（请允许我使用一下夸张的修辞手法)。
 
@@ -35,9 +41,9 @@
 </p>
 
 ![](https://tva1.sinaimg.cn/large/0082zybply1gcb2u3keh9j30p02j4h2r.jpg)
-# 目录(擅用Ctrl+F)
+# 目录(善用Ctrl+F)
 
-注 : 没链接的是还没写
+**注 : 没链接的是还没写**
 
 - Java基础核心串讲
 
@@ -58,7 +64,7 @@
 
   - JVM内存模型
   - [【JVM故事】了解JVM的结构，好在面试时吹牛](https://mp.weixin.qq.com/s/fit90VdZUa2pG9lbET0i7w)
-  - [看完这篇垃圾回收，和面试官扯皮没问题了（现在点外卖是天价！）](https://mp.weixin.qq.com/s/_AKQs-xXDHlk84HbwKUzOw)
+  - [看完这篇垃圾回收，和面试官扯皮没问题了](https://mp.weixin.qq.com/s/_AKQs-xXDHlk84HbwKUzOw)
   - 性能调优、线上问题排查
   - 类加载机制详解
   - 垃圾回收机制
@@ -73,7 +79,7 @@
   - [【面试】如果把线程当作一个人来对待，所有问题都瞬间明白了](https://mp.weixin.qq.com/s/PrUa0tFyu3UZllP2FRDyVA)
   - [Java 并发进阶常见面试题总结](https://mp.weixin.qq.com/s/cdHfTTvMpH60SwG2bjTMBw)
   - [如果你这样回答“什么是线程安全”，面试官都会对你刮目相看（建议珍藏）](https://mp.weixin.qq.com/s/WDeewsvWUEBIuabvVVhweA)
-  
+  - [乐观锁、悲观锁](https://mp.weixin.qq.com/s/WtAdXvaRuBZ-SXayIKu1mA)
 - 常用工具集
 
   - JVM问题排查工具-JMC
@@ -96,6 +102,7 @@
   - 高性能NIO框架-Netty
   - 分布式框架基石-RPC
   - ORM框架Mybatis源码分析
+  - [20000 字的 Spring Cloud 总结](https://mp.weixin.qq.com/s/pGSx8eKFH3YnUos3SM2ITw)
   - [什么是Zookeeper](https://mp.weixin.qq.com/s/gphDLJMO3QcRoN3zkco4EA)
   - [什么是单点登录(SSO)](https://mp.weixin.qq.com/s/drPVkRbCsDIlX6Ls2pDmqA)
   
@@ -113,7 +120,9 @@
   - [布隆过滤器实战【防止缓存击穿】](https://mp.weixin.qq.com/s/BdwZViiAqnFhCde4ZsxwPg)
   - [布隆过滤器过时了，未来属于布谷鸟过滤器？](https://mp.weixin.qq.com/s/XxY3b5FoVXCvHJWMxQH29g)
   - [什么鬼，面试官竟然让敖丙用Redis实现一个消息队列！！？](https://mp.weixin.qq.com/s/5NOTLJ6AM3QJfhvXMSR-MA)
-  
+  - [Redis—分布式锁深入探究](https://mp.weixin.qq.com/s/49hgH3COla3wU0rgyiUVgg)
+  - [Redis—跳跃表](https://mp.weixin.qq.com/s/NOsXdrMrWwq4NTm180a6vw)
+  - [Redis—5种基本数据结构](https://mp.weixin.qq.com/s/MT1tB2_7f5RuOxKhuEm1vQ)
 - [消息队列](https://github.com/AobingJava/JavaFamily/tree/master/docs/mq)
 
   - [消息队列基础知识](https://github.com/AobingJava/JavaFamily/blob/master/docs/mq/%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97%E5%9F%BA%E7%A1%80.md)
@@ -127,9 +136,13 @@
   - 索引、锁机制
   - 事务特性、隔离级别
   - MySQL调优与最佳实践
+  - [MySQL的索引是怎么加速查询的？](https://mp.weixin.qq.com/s/7TPVOT7sloDUKmhldf9uvg)
+  - [数据库索引](https://mp.weixin.qq.com/s/_9rDde9wRYoZeh07EASNQQ)
+  - [MySql主从复制，从原理到实践！](https://mp.weixin.qq.com/s/eEWMSTAUF1H-gFBx26jujw)
   - [MySQL 的 InnoDB 存储引擎是怎么设计的？](https://mp.weixin.qq.com/s/wr2gJGQSA8QH_lmPh1XOkw)
   - [数据库基础知识](https://mp.weixin.qq.com/s/NDL1Q6nqdPq5oMBWSpq4ug)
-  
+  - [原来MySQL面试还会问这些(undo log)](https://mp.weixin.qq.com/s/Lx4TNPLQzYaknR7D3gmOmQ)
+  - [数据库连接池到底应该设多大？这篇文章可能会颠覆你的认知](https://mp.weixin.qq.com/s/dQFSrXEmgBMh1PW835rlwQ)
 - 大数据
 
   - ODPS离线分析
@@ -176,7 +189,9 @@
   - [为什么阿里巴巴要求谨慎使用ArrayList中的subList方法](https://mp.weixin.qq.com/s/9y89Hy-YnpPjXpcmXpy_GQ)
   
 - 面试真题
-
+  - [2020 字节跳动后端面经分享！已拿 offer!](https://mp.weixin.qq.com/s/hr2pDs2wsiHQuDzW7jmOow)
+  - [春招字节跳动、蘑菇街四轮面试，分别问了啥？](https://mp.weixin.qq.com/s/xBC1IRr6v8hmIJ9lqCp5pQ)
+  - [敖丙8年经验读者，疫情期间面20家大厂总结](https://mp.weixin.qq.com/s/AQvDX0n8wBBaWl2OmcpnrA)
   - [京东+百度一面，不小心都拿了Offer](https://mp.weixin.qq.com/s/VVonP6MgGRUnBnWa2ukkyw)
   - [蚂蚁金服2019实习生面经总结(已拿口头offer)](https://mp.weixin.qq.com/s/0opKiGbKjAfJkRVeVHzpZg)
   - [Bigo的Java面试，我挂在了第三轮技术面上......](https://mp.weixin.qq.com/s/3_HnVzGm16zU2zhk7BnwFw)
@@ -189,7 +204,7 @@
   - [JVM必问知识点:类加载过程](https://mp.weixin.qq.com/s/eHqFONXXNc-LD4ugaKM6UA)
   - [迄今为止把同步/异步/阻塞/非阻塞/BIO/NIO/AIO讲的这么清楚的好文章（快快珍藏）](https://mp.weixin.qq.com/s/EVequWGVMWV5Ki2llFzdHg)
 - 程序人生系列
-
+  - [我知道互联网不相信眼泪，但是敖丙今天还是没忍住](https://mp.weixin.qq.com/s/UC6NsEFlNfqMdEkzvHxKRA)
   - [2020无畏年少青春，迎风潇洒前行](https://mp.weixin.qq.com/s/66ZDj60KPEfohHg0g8Cggw)
   - [写作一个月的感受](https://github.com/AobingJava/JavaFamily/blob/master/docs/coderLife/%E5%86%99%E4%BD%9C%E4%B8%80%E4%B8%AA%E6%9C%88%E5%9C%A8%E6%84%9F%E6%81%A9%E8%8A%82%E5%AF%B9%E5%A4%A7%E5%AE%B6%E8%AF%B4%E7%9A%84%E8%AF%9D.md)
   - [敖丙用20行代码拿了比赛冠军](https://github.com/AobingJava/JavaFamily/blob/master/docs/coderLife/%E6%95%96%E4%B8%99%E7%94%A820%E8%A1%8C%E4%BB%A3%E7%A0%81%E6%8B%BF%E4%BA%86%E6%AF%94%E8%B5%9B%E5%86%A0%E5%86%9B.md)
@@ -220,7 +235,7 @@
   - [昂，我24岁了](https://mp.weixin.qq.com/s/_HCBjYI9bcNy-zBHu58l7g)
   
 - **福利**
-  
+    - [Java/后端学习路线](https://mp.weixin.qq.com/s/5QpuDtXAalR-pz59B5t27g)
     - [整理的书单(附个人喜欢的文学书)](https://github.com/AobingJava/JavaFamily/blob/master/docs/creative/%E3%80%8A%E5%90%90%E8%A1%80%E6%95%B4%E7%90%86%E3%80%8B%E5%8D%81%E5%B9%B4%E9%A3%8E%E9%9B%A8%E6%8A%80%E6%9C%AF%E4%BA%BA%E7%9A%84%E4%B9%A6%E5%8D%95%E6%95%B4%E7%90%86.md)
     - [整理好用的工具集](https://github.com/AobingJava/JavaFamily/blob/master/docs/creative/%E9%A1%B6%E7%BA%A7%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E7%99%BE%E5%AE%9D%E7%AE%B1.md)
     - [通用的学习方法](https://mp.weixin.qq.com/s/JX72OoiNrZ9R0DTuOOtcoA)
@@ -231,19 +246,43 @@
     - [概要设计模板](https://github.com/AobingJava/JavaFamily/blob/master/docs/idea/%E8%B5%84%E6%96%99.md)
  
 
-# 项目经验&服务器
-大家都说简历没项目写，我就帮大家找了一个项目，还附赠[**【搭建教程】**](https://github.com/AobingJava/JavaFamily/blob/master/docs/coderLife/%E6%95%99%E4%BD%A0%E5%9C%A8%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E9%9D%A2%E8%AF%95%E9%A1%B9%E7%9B%AE.md)。
 
-我和阿里云合作帮他们推广服务器，比较便宜：89/年，229/3年，比学生9.9每月还便宜，买来送自己，送女朋友，再合适不过了，买了搭建个项目给面试官看也香，还可以熟悉技术栈（老用户用家人账号买就好了，我用我妈的)[**【点击购买】**](https://www.aliyun.com/minisite/goods?userCode=tybhsgp5&share_source=copy_link)
- 
 
-# 关于我&哔哩哔哩
-[**【大厂模拟面试视频】**](https://space.bilibili.com/130763764)         [**《2019年个人经历，帮助您更了解我》**](https://juejin.im/post/5df603bbf265da33c90b41d4)
 
-我在不久前已经开始了视频的拍摄，我会在这里分享技术，分享生活，**已经开始模拟大厂面试了**，关注我把(看视频点赞分享就好了，不用投币)。
+# MyAll
 
-# 技术交流群
-加我微信 : aobing2 备注【加群】即可
+2019个人经历：https://juejin.im/post/5df603bbf265da33c90b41d4
+
+公众号：三太子敖丙  
+
+B站：https://space.bilibili.com/130763764
+
+直播：http://live.bilibili.com/21996111（每周五可能）
+
+GitHub：https://github.com/AobingJava/JavaFamily
+
+知乎：https://www.zhihu.com/people/aobingJava
+
+CSDN：https://blog.csdn.net/qq_35190492
+
+掘金：https://juejin.im/user/59b416065188257e671b670a
+
+思否：https://segmentfault.com/u/aobing
+
+开源中国：https://my.oschina.net/javaFamily
+
+今日头条：https://www.toutiao.com/c/user/3270187212/#mid=1557137040287746
+
+技术交流群：添加我微信  aobing2  备注【加群】即可
+
+
+# 祝福
+
+希望大家都能找到心仪的工作，学习是一条时而郁郁寡欢，时而开环大笑的路，加油。
+
+如果你通过努力成功进入到了心仪的公司，一定不要懈怠放松，职场成长和新技术学习一样，不进则退。
+
+敖丙在工作中发现我身边的人真的就是实力越强的越努力，**最高级的自律，享受孤独**。
 
 
 # 知识星球
@@ -251,19 +290,72 @@
 
 我会在里面分享个人经历、分享经验、理财，职业规划，答疑等都会涉及，嘉宾分别是公众号大V、大厂架构师、阿里、美团、拼多多的技术专家，都是我朋友，希望能跟你共事（已经有读者去了阿里，也有一个来了蘑菇跟我做同事了，找机会我会分享出来）。
 
+# 项目经验&服务器
+大家都说简历没项目写，我就帮大家找了一个项目，还附赠[**【搭建教程】**](https://github.com/AobingJava/JavaFamily/blob/master/docs/coderLife/%E6%95%99%E4%BD%A0%E5%9C%A8%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E9%9D%A2%E8%AF%95%E9%A1%B9%E7%9B%AE.md)。
+
+
+
+
+<p align="center">
+  <a href="https://activity.huaweicloud.com/discount_area_v5/index.html?bpName=5f9f98a29e2c40b780c1793086f29fe2&bindType=1&salesID=AB071682">
+  <img src="https://tva1.sinaimg.cn/large/00831rSTly1gdfi1pc65nj306q02aglm.jpg">
+  </a>
+</p>
+
+云耀云服务器，88元一年起
+
+注意，不是突发型只有20%性能，也不是共享型，完全独享。[**【点击购买】**](https://activity.huaweicloud.com/discount_area_v5/index.html?bpName=5f9f98a29e2c40b780c1793086f29fe2&bindType=1&salesID=AB071682)
+
+
+<p align="center">
+  <a href="https://dashi.aliyun.com/site/aobing/ali">
+  <img src="https://tva1.sinaimg.cn/large/00831rSTly1gdfi3cmfhgj307e02k0sn.jpg">
+  </a>
+</p>
+
+**已结束** 活动折扣价：89/年，223/3年，比学生9.9每月还便宜(只阿里云新用户可用)
+
+买了搭建个项目，熟悉技术栈比较香**推荐买三年的划算点**[**【点击购买】**](https://dashi.aliyun.com/site/aobing/ali)
+
+
+
+
+
 
 
 # 岗位内推
 
 找所有职位比较出色的朋友，觉得合适的给我简历我可以内推，阿里、美团、蘑菇街、拼多多、字节跳动、腾讯等都可以.
 
-投递邮箱  xichao.jy@alibaba-inc.com
+阿里巴巴投递邮箱 : xichao.jy@alibaba-inc.com  蘑菇街/其他岗位 : aobing@mogu.com 
 
-# 澄清
 
-经常有人问我看了能不能吊打面试官，不能。
+### 近期机会
 
-所有文章的名字只是我的噱头，我们应该有一颗谦逊的心，所以希望大家怀着空杯心态好好学，一起进步。
+天猫国际是中国消费升级的第一跨境平台，是阿里经济体5年2000亿美金进口承诺的担纲。
+
+2019年天猫国际技术部和考拉合并成立了阿里巴巴大进口技术部，是阿里巴巴国际化战略的核心技术部门。
+
+我们致力于进口业务的技术突破和创新，助力中国的消费者实现“买遍全球”的需求。希望你加入我们，同我们一道引领电子商务、电子支付、供应链等全球化方向，建立一个让全球消费者喜爱，让全球商家受益的国际化技术体系。
+
+1.你将致力于进口电商相关的推荐、搜索、用户增长、供应链规划等算法的设计和研发
+
+2.你将致力于应用人工智能的最新技术，提高自动化和智能化程度，大幅提升业务效率
+
+3.你将有机会深入到最前沿的大数据电商系统的设计和研发。近期成立的新BU，发展前景广阔，提供你足够施展才能的舞台。
+
+现招聘 java研发实习生、前端实习生、算法、数据分析和测试实习生。
+
+有意请发简历到 joshua.liff@alibaba-inc.com
+
+要求：2020年11-2021年10本科及以上毕业生，理工科相关专业优先，有论文发表或者程序设计大赛、acm等算法比赛获奖的优先。
+
+# 赞赏码
+
+熬夜不易，觉得有很大帮助的朋友可以赏杯咖啡(不接受学生赞赏)，赏了一定要加我微信跟我说。
+<p align="center">
+    <img src="https://tva1.sinaimg.cn/large/00831rSTly1gd2qbdv1jnj30u00u0jzq.jpg" width="450px">
+</p>
 
 
 # 鸣谢列表
